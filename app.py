@@ -8,10 +8,6 @@ Author:
 Date:
     2021-06-30
 
-Requires:
-    Python packages:
-      - pip3 install -r requirements.txt
-
 '''
 
 #Import required packages
